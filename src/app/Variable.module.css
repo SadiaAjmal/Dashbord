@@ -1,0 +1,37 @@
+.sidebar {
+  background: #f5f6fa;
+  color: #707066;
+  width: 23%;
+}
+
+.sidebarFooter {
+  background: #f5f6fa;
+  color: #707066;
+  width: calc(23% - 2%);
+}
+
+.hr_style {
+  height: 2px;
+  background: #dadbd6;
+  color: #dadbd6;
+  margin-top: 15px;
+}
+
+.TextClr {
+  color: #707066;
+  font-size: 18px;
+}
+
+.mainWidth {
+  width: 75%;
+}
+@media (max-width: 1024px) {
+  .mainWidth {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .mainWidth {
+    width: 100%;
+  }
+}/*# sourceMappingURL=Variable.module.css.map */

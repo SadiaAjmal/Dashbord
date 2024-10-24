@@ -1,0 +1,40 @@
+$sidebar-bg: #f5f6fa;
+$sidebarClr: #707066;
+$sidebarWidth: 25%;
+$profileSize: 35px;
+$hrCrl: #dadbd6;
+$medium-screen:1024px;
+$small-screen:768px;
+.sidebar {
+    background: $sidebar-bg;
+    color: $sidebarClr;
+    width: $sidebarWidth;
+}
+
+.sidebarFooter {
+    background: $sidebar-bg;
+    color: $sidebarClr;
+    width: calc(#{$sidebarWidth} - 2%);
+}
+
+.hr_style {
+    height: 2px;
+    background: $hrCrl;
+    color: $hrCrl;
+    margin-top: 15px;
+}
+
+.TextClr {
+    color: $sidebarClr;
+    font-size: 18px;
+}
+
+.mainWidth {
+    width: calc(100% - #{$sidebarWidth});
+    @media(max-width: $medium-screen) {
+        width: 100%;
+    }
+    @media(max-width: $small-screen) {
+        width: 100%;
+    }
+}

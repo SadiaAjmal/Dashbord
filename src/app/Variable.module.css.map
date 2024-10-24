@@ -1,0 +1,1 @@
+{"version":3,"sources":["Variable.module.scss","Variable.module.css"],"names":[],"mappings":"AAQA;EACI,mBATS;EAUT,cATS;EAUT,UATW;ACEf;;ADUA;EACI,mBAfS;EAgBT,cAfS;EAgBT,qBAAA;ACPJ;;ADUA;EACI,WAAA;EACA,mBAjBI;EAkBJ,cAlBI;EAmBJ,gBAAA;ACPJ;;ADUA;EACI,cA3BS;EA4BT,eAAA;ACPJ;;ADUA;EACI,UA9BQ;ACuBZ;ADQI;EAFJ;IAGQ,WAAA;ECLN;AACF;ADMI;EALJ;IAMQ,WAAA;ECHN;AACF","file":"Variable.module.css"}
